@@ -11,4 +11,7 @@ Khi chúng ta lưu về và kiểm tra định dạng file có vẻ như nó là
 
 ![image](https://github.com/user-attachments/assets/1e6f4026-de6e-467e-8aae-9860e7c984da)
 
-h cần làm là tìm cách giải nén nó.(đang tìm cách fix)
+h cần làm là tìm cách giải nén nó. Sửa bằng ```hxd!``` nếu không bị sai ta sẽ được 1 file 7z có mật khẩu
+
+![image](https://github.com/user-attachments/assets/c970bf70-0143-4636-9eaf-8c59819d7451)
+

@@ -11,4 +11,4 @@ Khi chúng ta lưu về và kiểm tra định dạng file có vẻ như nó là
 
 ![image](https://github.com/user-attachments/assets/1e6f4026-de6e-467e-8aae-9860e7c984da)
 
-h cần làm là tìm cách giải nén nó.
+h cần làm là tìm cách giải nén nó.(đang tìm cách fix)
